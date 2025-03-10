@@ -6,7 +6,7 @@ Summary:	pytest plugin that allows multiple failures per test
 Summary(pl.UTF-8):	Wtyczka pytesta pozwalająca na wiele niepowodzeń z jednego testu
 Name:		python3-pytest-check
 Version:	2.1.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-check/
